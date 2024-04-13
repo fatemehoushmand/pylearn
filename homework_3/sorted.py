@@ -5,7 +5,7 @@ while True:
     if x=='end':
         break
     else:
-        x = int(input('please enter your num:'))
+        x = float(x)
         array_1.append(x)
 
 flag= True
