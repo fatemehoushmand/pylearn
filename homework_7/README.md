@@ -14,7 +14,7 @@
   
   In this store, if you are a customer, you can buy existing products, if you are an administrator, you can add and edit products.
 
-  Please open this file:```store.py```
+  if you want to run my code, please execute the following command:```store.py```
 
 ---
 

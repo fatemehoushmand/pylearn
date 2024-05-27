@@ -1,24 +1,27 @@
 import turtle
-p = turtle.Pen()
-p.shape("turtle")
 
-j=30
-h=15
+size_big = 10
+sizes = 5
 
-for side in range(6,20):
-    degree = ((side-2)*180)/side
-    p.left(180-(degree/2))
- 
-    j=j+12
-    h+=4
-    for i in range(side):
-        p.forward(j)
-        p.left(180-degree)
-    p.right(180-(degree/2))
-    p.penup()
-    p.forward(h)
-    p.down()
+pet = turtle.Pen()
+pet.shape("turtle")
+
+pet.width(3)
+pet.left(150)
+
+for i in range(3, 12):
+    hight = (((i - 2) * 180) / i) - 180
+    
+    for j in range(i):
+        pet.forward(41 + size_big)
+        pet.right(hight)
+    
+    pet.right(110)
+    pet.forward(12.5 + sizes)
+    pet.left(110)
+    size_big += 15
+    sizes += 5
+
+
 
 turtle.done()
-
-
