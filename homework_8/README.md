@@ -7,10 +7,6 @@
  . Question8.2: gif
 
 
-
- 
- 
-
 ---
 ## .Question8.1: translate
   
