@@ -12,12 +12,12 @@
   
   A program that translates words into English and Farsi.
 
-  if you want to run my code, please execute the following command:```store.py```
+  if you want to run my code, please execute the following command:```python store.py```
 
 ---
 ## .Question8.1: Gif
  A program is written that takes photos and turns them into gifs.
- if you want to run my code, please execute the following command:```gif.py```
+ if you want to run my code, please execute the following command:```python gif.py```
 
  ---
 

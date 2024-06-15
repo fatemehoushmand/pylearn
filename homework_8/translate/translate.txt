@@ -1,3 +1,4 @@
+
 this
 in
 is
@@ -9,7 +10,7 @@ matn
 book
 ketab
 love
-doost dashtan
+doost_dashtan
 from
 az
 language
@@ -41,7 +42,7 @@ hastam
 was
 bood
 programmer
-barname nevis
+barname_nevis
 place
 makan
 what
@@ -59,7 +60,7 @@ bodand
 he
 oo
 i.r.iran
-jomhooriye eslamiye iran
+jomhooriye_eslamiye_iran
 she
 oo
 mother
@@ -204,15 +205,9 @@ best
 behtarin
 for
 baraye
-sun
-khorshid
-banana
-moz
-carrot
-havij
-phone
-gooshi
-tree
-derakht
-tissue
-dastmal
+student
+danesh_amuz
+biomedical_engineering
+mohandesi_pezeshi
+name
+esm
